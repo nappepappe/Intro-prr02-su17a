@@ -19,4 +19,6 @@ echo done > C:\ProgramData\Autodesk\CLM\LGS\498I1_2017.0.0.F\nw.cfg
 echo done > C:\ProgramData\Autodesk\CLM\LGS\657I1_2017.0.0.F\nw.cfg
 echo done > C:\ProgramData\Autodesk\CLM\LGS\727I1_2017.0.0.F\nw.cfg
 echo done > C:\ProgramData\Autodesk\CLM\LGS\919I1_2017.0.0.F\nw.cfg
-pause
+pause 
+
+swag boyfinna pop a bullet in yo head dawg brap brap brap brap yuuh dasrite
